@@ -23,7 +23,6 @@ Atualmente focada em:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -41,15 +40,14 @@ Atualmente focada em:
 ### 📂 Meus projetos
 
 Veja meus repositórios ou visite alguns destaques:
-- 🧠 [Sentiment Analyzer](https://github.com/seu-user/sentiment-analyzer) – Analisador de sentimentos usando NLP
-- 🤖 [Task Automator](https://github.com/seu-user/task-automator) – Scripts para automatizar tarefas repetitivas
+- 🇷🇸 [Serbian](https://github.com/AnfisaSilvanova/Serbian) – Conjugue verbos em sérvio
 
 ---
 
 ### 📫 Fale comigo
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- [Meu portfólio (opcional)](https://www.seusite.com)  
+- [LinkedIn](www.linkedin.com/in/anfisa-silvanova-🏳️‍⚧️-b279b5163)  
+- [Behance](https://www.behance.net/shadowbiele257))  
 - Ou aqui pelo GitHub mesmo!
 
 ---
